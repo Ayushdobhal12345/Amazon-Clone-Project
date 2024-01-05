@@ -1,1 +1,3 @@
 # Amazon-Clone-Project
+it is an amazon clone project: which consists of navbars , hero content section and footer section..
+This project had been created using HTML and CSS...
